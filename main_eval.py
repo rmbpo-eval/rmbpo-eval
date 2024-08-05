@@ -39,7 +39,7 @@ def main(
     args = load_config(config_path, args)
 
     # Set global seed
-    set_global_seed(seed, True)
+    set_global_seed(seed)
 
     # Get environment name and perturbation parameters
     env_name = args["env_name"]
