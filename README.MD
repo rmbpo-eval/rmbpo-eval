@@ -1,4 +1,4 @@
-*Repo is deprecated*
+# Repo is deprecated
 Please use the updated repo: https://github.com/rmbpo-eval/rmbpo-tmlr
 
 **Disclaimer**: this code has not been exhaustively tested. In case of issues, please start an issue on GitHub or contact the authors.
